@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rpecot-lab-07.props" />
+</Project>

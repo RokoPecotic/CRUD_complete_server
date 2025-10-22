@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\dto\\newcityrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\dto\\newcityrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\logic\\icitylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\logic\\icitylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\logic\\citylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\logic\\citylogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\repositories\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\repositories\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\repositories\\citysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\repositories\\citysqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\configuration\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\configuration\\dbconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\configuration\\validationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\configuration\\validationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|c:\\users\\roko pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\rpecot-lab-07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1565E65-866C-4C76-8840-3986308AC020}|rpecot-lab-07\\rpecot-lab-07.csproj|solutionrelative:rpecot-lab-07\\rpecot-lab-07.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewCityRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\DTO\\NewCityRequestDTO.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\DTO\\NewCityRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\DTO\\NewCityRequestDTO.cs",
+              "RelativeToolTip": "rpecot-lab-07\\DTO\\NewCityRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:36:34.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Repositories\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\ICityRepository.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Repositories\\ICityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:34:09.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Configuration\\DBConfiguration.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Configuration\\DBConfiguration.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Configuration\\DBConfiguration.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Configuration\\DBConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:33:55.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICityLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Logic\\ICityLogic.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Logic\\ICityLogic.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Logic\\ICityLogic.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Logic\\ICityLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:33:50.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CityLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Logic\\CityLogic.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Logic\\CityLogic.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Logic\\CityLogic.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Logic\\CityLogic.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwD8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:31:17.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CitySQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\CitySQLRepository.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Repositories\\CitySQLRepository.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\CitySQLRepository.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Repositories\\CitySQLRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:13:02.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Controllers\\CityController.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Controllers\\CityController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T18:09:03.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Program.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Program.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Program.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwCYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:58:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Repositories\\CityRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T16:25:44.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Configuration\\ValidationConfiguration.cs",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\Configuration\\ValidationConfiguration.cs",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\Configuration\\ValidationConfiguration.cs",
+              "RelativeToolTip": "rpecot-lab-07\\Configuration\\ValidationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T18:13:05.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\appsettings.json",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\appsettings.json",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\appsettings.json",
+              "RelativeToolTip": "rpecot-lab-07\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T17:38:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "rpecot-lab-07.csproj",
+              "DocumentMoniker": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\rpecot-lab-07.csproj",
+              "RelativeDocumentMoniker": "rpecot-lab-07\\rpecot-lab-07.csproj",
+              "ToolTip": "C:\\Users\\Roko Pecoti\u0107\\source\\repos\\rpecot-lab-07\\rpecot-lab-07\\rpecot-lab-07.csproj",
+              "RelativeToolTip": "rpecot-lab-07\\rpecot-lab-07.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-09T17:38:56.783Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

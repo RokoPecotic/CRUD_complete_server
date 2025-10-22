@@ -1,0 +1,6 @@
+@rpecot_lab_07_HostAddress = http://localhost:5124
+
+GET {{rpecot_lab_07_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
